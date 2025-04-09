@@ -1,0 +1,75 @@
+name: tournament_client
+description: TNM Client App.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  # sdk: ">=3.0.6 <4.0.0"
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  bloc: ^8.1.4
+  bloc_concurrency: ^0.2.5
+  cached_network_image: ^3.2.3
+  chewie: ^1.7.1
+  collection: ^1.17.0
+  confetti: ^0.8.0
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  dio_http_cache: ^0.3.0
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.5
+  fluttertoast: ^8.2.2
+  get: ^4.6.5
+  google_fonts: ^5.1.0
+  http: any
+  intl: ^0.18.1
+  just_audio: ^0.9.42
+  lottie: ^2.6.0
+  odometer: ^3.0.0
+  shared_preferences: ^2.2.2
+  socket_io_client: ^2.0.3
+  url_launcher: ^6.2.5
+  uuid: ^4.5.1
+  video_player: ^2.9.0
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - asset/bg_video.mp4
+    - asset/no_image.png
+    - asset/bg.jpg
+    - asset/image/logo_renew.png
+    - asset/image/logo_new.png
+    - asset/image/
+    - asset/
+    - asset/bg2.jpg
+    - asset/circle.png
+    - asset/round.png
+    - asset/eclip.png
+    - asset/blackbg.png
+    - asset/bgcolor1.png
+    - asset/bg_topranking.jpeg
+    - asset/bg_topranking2.jpeg
+    - asset/bg_topranking.jpeg
+    - asset/sound.mp3
+    - asset/effect.mp4
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: asset/font/Poppins-Light.ttf
+        - asset: asset/font/Poppins-Black.ttf
+        - asset: asset/font/Poppins-Bold.ttf
+        - asset: asset/font/Poppins-Light.ttf
+        - asset: asset/font/Poppins-Light.ttf
+        - asset: asset/font/Poppins-Regular.ttf
+        - asset: asset/font/Poppins-Medium.ttf
+        - asset: asset/font/Poppins-Thin.ttf

@@ -1,4 +1,3 @@
-![Screenshot 2025-04-09 at 1 08 50 PM](https://github.com/user-attachments/assets/bc8cbc1a-aefd-4142-9a2e-6b636f557c5b)
 
 
 1.GAME PAGE
@@ -20,7 +19,13 @@ https://github.com/user-attachments/assets/30bf208a-7ef5-4e11-83b0-298d2f14b004
 ![Screenshot 2025-04-09 at 1 11 33 PM](https://github.com/user-attachments/assets/bd156906-9ccd-4826-89dc-e691fe7e1fdc)
 
 
+https://github.com/user-attachments/assets/6e2e864a-95fb-47dc-a26a-87d11ede076d
+
+
+
 5.SETUP
+*missing image w data
+
 
 
 

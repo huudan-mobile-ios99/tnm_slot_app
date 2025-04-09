@@ -1,4 +1,4 @@
-
+![Screenshot 2025-04-09 at 1 08 50 PM](https://github.com/user-attachments/assets/bc8cbc1a-aefd-4142-9a2e-6b636f557c5b)
 
 
 1.GAME PAGE
@@ -11,16 +11,17 @@ https://github.com/user-attachments/assets/30bf208a-7ef5-4e11-83b0-298d2f14b004
 
 
 3.GAME PAGE WITH CHART ONLY
+![Screenshot 2025-04-09 at 1 08 50 PM](https://github.com/user-attachments/assets/f45403ad-4c51-4ce6-94d8-d86db003d338)
+*missing image w data
 
 
 4.ADMIN PAGE
-![Screenshot 2025-04-09 at 12 39 22 PM](https://github.com/user-attachments/assets/3329e7e7-2550-42eb-b5ab-9e09ce00fcff)
-https://github.com/user-attachments/assets/6f2dbe8b-7c33-422e-9faf-f0c914897a7b (video) 
+![Screenshot 2025-04-09 at 1 10 15 PM](https://github.com/user-attachments/assets/6cf46842-d9ad-4891-bc36-44309332be21)
+![Screenshot 2025-04-09 at 1 11 33 PM](https://github.com/user-attachments/assets/bd156906-9ccd-4826-89dc-e691fe7e1fdc)
+
 
 5.SETUP
-![z6457516209055_3dd50f26183a75451f8eb88140c20a52](https://github.com/user-attachments/assets/d1aed398-add2-47d1-8a72-3f07aa7c2018)
-![z6460440453343_c5ca41159d326a805926d11d734d2b3f](https://github.com/user-attachments/assets/8a82ce35-d733-4bc2-bc85-f6b91e53b50e)
-https://github.com/user-attachments/assets/f7f5538a-cfef-4d19-8c0a-7084bfe49350
+
 
 
 
